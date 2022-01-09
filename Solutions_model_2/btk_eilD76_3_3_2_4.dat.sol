@@ -1,0 +1,4 @@
+Status de la résolution: OPTIMAL
+Temps de résolution (s) : 2.753
+----------------------------------
+Bilan; btk_eilD76_3_3_2_4.dat; 2.753; OptimizationStatus.OPTIMAL; 18.24855999999999
