@@ -18,6 +18,8 @@ Pour exécuter le script, il faut lancer les commandes\
 
 Le premier argument de la dernière commande correspond au répertoire où se trouvent les instances, tandis que le second est le répertoire où seront enregistrés les résultats et le dernier le modèle utilisé pour résoudre les instances.
 
+# [Rapport final](./Rapport.pdf)
+
 ### Crédits
 - Martin Debouté
 - Basile Blayac
