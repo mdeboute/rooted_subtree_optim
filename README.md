@@ -17,3 +17,7 @@ Pour exécuter le script, il faut lancer les commandes\
 `chmod +x test.sh` \ afin de donner les droits d'exécution au script \ `./test.sh Instances Solutions_model_1 model_1` \ ou `./test.sh Instances Solutions_model_2 model_2` \
 
 Le premier argument de la dernière commande correspond au répertoire où se trouvent les instances, tandis que le second est le répertoire où seront enregistrés les résultats et le dernier le modèle utilisé pour résoudre les instances.
+
+### Crédits
+- Martin Debouté
+- Basile Blayac
